@@ -1075,7 +1075,7 @@
         <pose frame=''>0.138378 0 0 0 -0 0</pose>
         <geometry>
           <box>
-            <size>1.2 0.15 0</size>
+            <size>1.2 0.15 0.1</size>
           </box>
         </geometry>
         <material>
@@ -1092,7 +1092,7 @@
       <collision name='Wall_23_Collision_2'>
         <geometry>
           <box>
-            <size>1.2 0.15 0</size>
+            <size>1.2 0.15 0.1</size>
           </box>
         </geometry>
         <pose frame=''>0.138378 0 0 0 -0 0</pose>
